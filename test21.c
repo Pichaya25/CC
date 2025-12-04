@@ -5,6 +5,7 @@
 #define COL_SUBJ 3
 
 int main() {
+    //khgkhgkhgkhg
     int stu_score[ROW_STD][COL_SUBJ];
     char subj_name[COL_SUBJ][3][10] = {"Math", "Science", "English"};
     printf("=============score TABLE=============\n");
